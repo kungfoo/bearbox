@@ -14,7 +14,7 @@ ActiveRecord::Schema.define(:version => 20090207124314) do
   create_table "bear_shouts", :force => true do |t|
     t.string   "name"
     t.text     "content"
-    t.date     "date_added"
+    t.datetime "date_added"
     t.integer  "rating"
     t.datetime "created_at"
     t.datetime "updated_at"

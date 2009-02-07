@@ -3,7 +3,7 @@ class CreateBearShouts < ActiveRecord::Migration
     create_table :bear_shouts do |t|
       t.string :name
       t.text :content
-      t.date :date_added
+      t.datetime :date_added
       t.integer :rating
 
       t.timestamps

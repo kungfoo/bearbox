@@ -2,7 +2,7 @@ class BearShoutsController < ApplicationController
   # GET /bear_shouts
   # GET /bear_shouts.xml
   def index
-    @bear_shouts = BearShout.find(:all, :order => "date_added ASC")
+    @bear_shouts = BearShout.find(:all, :order => "date_added DESC")
 
     respond_to do |format|
       format.html # index.html.erb

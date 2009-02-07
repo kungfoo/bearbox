@@ -6168,3 +6168,191 @@ Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 20:15:53) [GE
 Rendering template within layouts/bear_shouts
 Rendering bear_shouts/index
 Completed in 40ms (View: 20, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 20:24:37) [GET]
+  [4;35;1mBearShout Load (4.6ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added ASC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 49ms (View: 28, DB: 5) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 20:26:06) [GET]
+  [4;36;1mBearShout Load (4.6ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added ASC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 48ms (View: 27, DB: 5) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 20:55:30) [GET]
+  [4;36;1mBearShout Load (2.4ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added ASC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 30ms (View: 17, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 20:55:34) [GET]
+  [4;35;1mBearShout Load (4.5ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added ASC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 50ms (View: 28, DB: 5) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 20:55:38) [GET]
+  [4;36;1mBearShout Load (2.3ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added ASC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 90ms (View: 15, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 20:55:41) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 41ms (View: 22, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#create (for 127.0.0.1 at 2009-02-07 20:56:03) [POST]
+  Parameters: {"recaptcha_response_field"=>"heroes 1718", "recaptcha_challenge_field"=>"02gu1Z2tfnGk5MB0s2NCDwGp_Z4kjty6SMWMjB2bla5xaOHUq9atgjKqocQ1z_ljTV9plDdDwjlsuvYDeqJf3cFfVY8QP8zRI1HGnzSEI5evjW7PTBKqffH26XFd7hMPfgC70QmarwAwX64AZzmjtf9mBalUHAgF4G2mp8Cyiyjwdm5B8hM1ONL9lRcUdiV9pK3Hz8tu4Na-sFt2sKBOa0Q2a17KsivXvmNDdPRKiZt6f1KYjoT_mBzvBm_vZgg4B_K5oHCoT-TSCNFxG6ITYtkz8_26IB", "commit"=>"Create", "bear_shout"=>{"name"=>"Newest", "content"=>"This is in fact the newest post!"}, "authenticity_token"=>"dba36c5c4befdbe63843a11b16a29595ac6329c8"}
+  [4;35;1mBearShout Create (1.4ms)[0m   [0mINSERT INTO "bear_shouts" ("name", "rating", "created_at", "updated_at", "content", "date_added") VALUES('Newest', 0, '2009-02-07 19:56:03', '2009-02-07 19:56:03', 'This is in fact the newest post!', '2009-02-07 20:56:03')[0m
+Redirected to actionindex
+Completed in 592ms (DB: 1) | 302 Found [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 20:56:03) [GET]
+  [4;36;1mBearShout Load (2.7ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added ASC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 29ms (View: 17, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 20:56:27) [GET]
+  [4;35;1mBearShout Load (4.6ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 43ms (View: 22, DB: 5) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 20:56:28) [GET]
+  [4;36;1mBearShout Load (2.7ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 28ms (View: 16, DB: 3) | 200 OK [http://localhost/bear_shouts]
+  [4;36;1mSQL (0.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (10.1ms)[0m   [0;1mCREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) [0m
+  [4;35;1mSQL (13.6ms)[0m   [0mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT version FROM schema_migrations[0m
+Migrating to CreateBearShouts (20090207124314)
+  [4;36;1mSQL (13.4ms)[0m   [0;1mCREATE TABLE "bear_shouts" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "content" text, "date_added" datetime, "rating" integer, "created_at" datetime, "updated_at" datetime) [0m
+  [4;35;1mSQL (12.8ms)[0m   [0mINSERT INTO schema_migrations (version) VALUES ('20090207124314')[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSELECT version FROM schema_migrations[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mPRAGMA index_list("bear_shouts")[0m
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 20:57:02) [GET]
+  [4;35;1mBearShout Load (1.0ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 28ms (View: 11, DB: 1) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 20:57:03) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 20ms (View: 11, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#create (for 127.0.0.1 at 2009-02-07 20:57:15) [POST]
+  Parameters: {"recaptcha_response_field"=>"presence nostrand", "recaptcha_challenge_field"=>"02bRp7BNhPigWLECaoN8ay-wepFs3xWqprGaPZ5-V9Ba9vZvNN33zzidX9kr6mfv5n3wc9iUls0UH1hOmztrIktp3G_YGzka5KXxyy9ogR59vmF5TrbUNEpmKsis51qIl7aOFz0aSGvqNSAaYwwDbZJrJYpEHEF39snLYCVlWZaNzIxNElTwHcI7gEH1cUuXUmqireQ6RikpNMGU418IBEmh9OygUCHmPWGrnJ0ReuhW4oS_lZAwMD", "commit"=>"Create", "bear_shout"=>{"name"=>"fasdfs", "content"=>"fsjadkfdsaf"}, "authenticity_token"=>"dba36c5c4befdbe63843a11b16a29595ac6329c8"}
+  [4;36;1mBearShout Create (0.8ms)[0m   [0;1mINSERT INTO "bear_shouts" ("name", "rating", "created_at", "updated_at", "content", "date_added") VALUES('fasdfs', 0, '2009-02-07 19:57:16', '2009-02-07 19:57:16', 'fsjadkfdsaf', '2009-02-07 19:57:15')[0m
+Redirected to actionindex
+Completed in 741ms (DB: 1) | 302 Found [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 20:57:16) [GET]
+  [4;35;1mBearShout Load (0.8ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 18ms (View: 9, DB: 1) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 20:57:17) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 37ms (View: 19, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#create (for 127.0.0.1 at 2009-02-07 20:57:32) [POST]
+  Parameters: {"recaptcha_response_field"=>"clock a", "recaptcha_challenge_field"=>"02cJSVyH1NWkcypyheJRJQ7DyS36TcuW8WuaqbmKP87iibDEn4X3ttlxc8feBnBrp41xQ6KN85NQbPaqJxAVg_T2GZfgl0rcHEjQ8xFEf8yiohc-hRfBVT0xX-GRRZ8pWGBd3SB-chlE6tuKKGnsfkrBejy_HisCsvYgVf2eDubxz84YhGXPSXBIKU0tyZn9o8DDP9tnM81GWPOFntcbFF9QmIUKgdtGELK5CAqtnE2IhJgc-rxmSNfNiISL-Yq9C7_a27yKYwDUlW0eWKs6LKNyU3zT0B", "commit"=>"Create", "bear_shout"=>{"name"=>"clock A", "content"=>"lkfsajlfkjsakfjsödkjföa"}, "authenticity_token"=>"dba36c5c4befdbe63843a11b16a29595ac6329c8"}
+  [4;36;1mBearShout Create (0.7ms)[0m   [0;1mINSERT INTO "bear_shouts" ("name", "rating", "created_at", "updated_at", "content", "date_added") VALUES('clock A', 0, '2009-02-07 19:57:33', '2009-02-07 19:57:33', 'lkfsajlfkjsakfjsödkjföa', '2009-02-07 19:57:32')[0m
+Redirected to actionindex
+Completed in 640ms (DB: 1) | 302 Found [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 20:57:33) [GET]
+  [4;35;1mBearShout Load (0.9ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 85ms (View: 76, DB: 1) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 20:57:36) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 26ms (View: 10, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#create (for 127.0.0.1 at 2009-02-07 20:57:46) [POST]
+  Parameters: {"recaptcha_response_field"=>"penn. rickmann", "recaptcha_challenge_field"=>"027u5bU18KwG2IR0dEYdBtOkVIrkF9luzPIw4onPkaej-oVvgtE4my0IhDJsPJIzjCkpWbnnhX3uECCjsS6Ht4QVRClBNnKIOYu4fM-8EnlCA9z3UVp9tVNNuwDUfh_rtlS_7F9JMD2omm0mr1M_saSuCrRvCHIj2r6qmghC_DmwrnJDHrSZIc6lKyh1GxMzbom0d3xj-luq-IsSWawC0lJcPai0a0HVYckR-LZrAf-K2XUbRnAwMD", "commit"=>"Create", "bear_shout"=>{"name"=>"faskjdfdjk", "content"=>"afklkaflaks"}, "authenticity_token"=>"dba36c5c4befdbe63843a11b16a29595ac6329c8"}
+  [4;36;1mBearShout Create (0.7ms)[0m   [0;1mINSERT INTO "bear_shouts" ("name", "rating", "created_at", "updated_at", "content", "date_added") VALUES('faskjdfdjk', 0, '2009-02-07 19:57:46', '2009-02-07 19:57:46', 'afklkaflaks', '2009-02-07 19:57:46')[0m
+Redirected to actionindex
+Completed in 597ms (DB: 1) | 302 Found [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 20:57:46) [GET]
+  [4;35;1mBearShout Load (2.1ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 36ms (View: 19, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 20:57:48) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 28ms (View: 10, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#create (for 127.0.0.1 at 2009-02-07 20:58:04) [POST]
+  Parameters: {"recaptcha_response_field"=>"secretary swear", "recaptcha_challenge_field"=>"02vTkUF9L8De24qLDrIj2VGa9JYsD0iKpuf4l41RCNGnh7KxXB2ZAtpIoBqleKXSJHAcXCAeCl-5_SS6F0FPHtHVpTbWiz4gY5eQHfXULysuQ5E_f5R0hm5honjjkYQ_v4KcQGk8lfN-JQUKGrVHSxku3ndqouPKVgaixG4tw0J4LDAjMnHpVCSztpB5FPZWqI8VmbUmQPKhJ4bK7iLHYPV5m3je69vodVj0YxYaFqrun3oM7tAwMD", "commit"=>"Create", "bear_shout"=>{"name"=>"öalfskjdf", "content"=>"secretary"}, "authenticity_token"=>"dba36c5c4befdbe63843a11b16a29595ac6329c8"}
+  [4;36;1mBearShout Create (0.7ms)[0m   [0;1mINSERT INTO "bear_shouts" ("name", "rating", "created_at", "updated_at", "content", "date_added") VALUES('öalfskjdf', 0, '2009-02-07 19:58:05', '2009-02-07 19:58:05', 'secretary', '2009-02-07 19:58:04')[0m
+Redirected to actionindex
+Completed in 719ms (DB: 1) | 302 Found [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 20:58:05) [GET]
+  [4;35;1mBearShout Load (1.2ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 20ms (View: 10, DB: 1) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 20:58:08) [GET]
+  [4;36;1mBearShout Load (2.3ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 35ms (View: 18, DB: 2) | 200 OK [http://localhost/bear_shouts]
