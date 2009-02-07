@@ -1,0 +1,69 @@
+/* 
+    Document   : bearbox
+    Created on : Feb 7, 2009, 3:20:12 PM
+    Author     : kungfoo
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+div#bearbox-teddy{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 400px;
+    background-image: url(../images/bearbox-teddy.jpg);
+    z-index: -1;
+}
+
+div#content{
+    margin-left: 400px;
+    width: 600px;
+    z-index: 2;
+}
+
+p.month{
+    background-color: #c6c6c6;
+    width: 40px;
+    height: 20px;
+    margin:0;
+    text-align: center;
+    font-style: normal;
+    font-weight: 600;
+}
+
+p.day{
+    background-color: #c6c6c6;
+    width:40px;
+    margin: 0;
+    text-align: center;
+    font-style: normal;
+    font-weight: 600;
+    font-size: larger;
+}
+
+p.name{
+    margin-left: 20px;
+}
+
+p.content{
+    margin-left: 60px;
+}
+
+div.bearshout{
+    width : 400px;
+}
+
+div#bearbox-list{
+    width: 500px;
+}
+
+div.clear {
+    clear: both;
+    display: block;
+    height: 1px;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}

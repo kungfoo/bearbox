@@ -4,15 +4,15 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
   <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-  <title>BearShouts: <%= controller.action_name %></title>
+  <title>>>BEARBOX<< <%= controller.action_name %></title>
   <%= stylesheet_link_tag 'scaffold' %>
+  <%= stylesheet_link_tag 'bearbox' %>
 </head>
 <body>
 
-<p style="color: green"><%= flash[:notice] %></p>
-
+<div id="content">
 <%= yield  %>
-
+</div>
 
 <div id="bearbox-teddy" />
 </body>
