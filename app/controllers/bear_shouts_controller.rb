@@ -2,7 +2,7 @@ class BearShoutsController < ApplicationController
   # GET /bear_shouts
   # GET /bear_shouts.xml
   def index
-    @bear_shouts = BearShout.find(:all, :order => "date_added DESC")
+    @bear_shouts = BearShout.find(:all, :order => "date_added ASC")
 
     respond_to do |format|
       format.html # index.html.erb
@@ -32,10 +32,10 @@ class BearShoutsController < ApplicationController
     end
   end
 
-  # GET /bear_shouts/1/edit
-  def edit
-    @bear_shout = BearShout.find(params[:id])
-  end
+#  # GET /bear_shouts/1/edit
+#  def edit
+#    @bear_shout = BearShout.find(params[:id])
+#  end
 
   # POST /bear_shouts
   # POST /bear_shouts.xml
@@ -58,30 +58,30 @@ class BearShoutsController < ApplicationController
 
   # PUT /bear_shouts/1
   # PUT /bear_shouts/1.xml
-  def update
-    @bear_shout = BearShout.find(params[:id])
+#  def update
+#    @bear_shout = BearShout.find(params[:id])
+#
+#    respond_to do |format|
+#      if @bear_shout.update_attributes(params[:bear_shout])
+#        flash[:notice] = 'BearShout was successfully updated.'
+#        format.html { redirect_to(@bear_shout) }
+#        format.xml  { head :ok }
+#      else
+#        format.html { render :action => "edit" }
+#        format.xml  { render :xml => @bear_shout.errors, :status => :unprocessable_entity }
+#      end
+#    end
+#  end
 
-    respond_to do |format|
-      if @bear_shout.update_attributes(params[:bear_shout])
-        flash[:notice] = 'BearShout was successfully updated.'
-        format.html { redirect_to(@bear_shout) }
-        format.xml  { head :ok }
-      else
-        format.html { render :action => "edit" }
-        format.xml  { render :xml => @bear_shout.errors, :status => :unprocessable_entity }
-      end
-    end
-  end
-
-  # DELETE /bear_shouts/1
-  # DELETE /bear_shouts/1.xml
-  def destroy
-    @bear_shout = BearShout.find(params[:id])
-    @bear_shout.destroy
-
-    respond_to do |format|
-      format.html { redirect_to(bear_shouts_url) }
-      format.xml  { head :ok }
-    end
-  end
+#  # DELETE /bear_shouts/1
+#  # DELETE /bear_shouts/1.xml
+#  def destroy
+#    @bear_shout = BearShout.find(params[:id])
+#    @bear_shout.destroy
+#
+#    respond_to do |format|
+#      format.html { redirect_to(bear_shouts_url) }
+#      format.xml  { head :ok }
+#    end
+#  end
 end
