@@ -1,15 +1,15 @@
-<h1>Shout at the bear!!</h1>
+<%= link_to image_tag("typo_new.png", :class => "typo"), :action => :index %>
 
 <% form_for(@bear_shout) do |f| %>
   <%= f.error_messages %>
 
   <p>
     <%= f.label :name %><br />
-    <%= f.text_field :name %>
+    <%= f.text_field :name, :size => 35 %>
   </p>
   <p>
     <%= f.label :content %><br />
-    <%= f.text_area :content %>
+    <%= f.text_area :content, :rows => 10, :cols => 40 %>
   </p>
   <p>
     <%= recaptcha_tags %>
@@ -19,4 +19,5 @@
   </p>
 <% end %>
 
-<%= link_to 'Back', bear_shouts_path %>
+
+<div id="bracket">&nbsp;</div>

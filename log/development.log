@@ -3239,3 +3239,2822 @@ Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 16:24:01) [GE
 Rendering template within layouts/bear_shouts
 Rendering bear_shouts/index
 Completed in 24ms (View: 12, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 16:35:10) [GET]
+  [4;35;1mBearShout Load (1.8ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 21ms (View: 11, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 16:35:10) [GET]
+  [4;36;1mBearShout Load (2.4ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 26ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 16:35:11) [GET]
+  [4;35;1mBearShout Load (1.7ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 23ms (View: 12, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 16:35:11) [GET]
+  [4;36;1mBearShout Load (1.5ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 21ms (View: 11, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 16:35:11) [GET]
+  [4;35;1mBearShout Load (1.8ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 25ms (View: 14, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 16:35:11) [GET]
+  [4;36;1mBearShout Load (1.5ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 22ms (View: 12, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 16:35:13) [GET]
+  [4;35;1mBearShout Load (3.0ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 40ms (View: 22, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 16:37:48) [GET]
+  [4;36;1mBearShout Load (1.6ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 21ms (View: 11, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 16:38:00) [GET]
+  [4;35;1mBearShout Load (2.9ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 41ms (View: 22, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 16:39:12) [GET]
+  [4;36;1mBearShout Load (1.9ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 26ms (View: 14, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 16:40:35) [GET]
+  [4;35;1mBearShout Load (1.8ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 24ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 16:41:15) [GET]
+  [4;36;1mBearShout Load (2.0ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 25ms (View: 12, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 16:41:25) [GET]
+  [4;35;1mBearShout Load (1.7ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 23ms (View: 12, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 16:41:38) [GET]
+  [4;36;1mBearShout Load (2.9ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 40ms (View: 21, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 16:41:57) [GET]
+  [4;35;1mBearShout Load (1.7ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 24ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 16:42:06) [GET]
+  [4;36;1mBearShout Load (6.0ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 30ms (View: 15, DB: 6) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 16:42:49) [GET]
+  [4;35;1mBearShout Load (1.7ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 23ms (View: 12, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 16:43:01) [GET]
+  [4;36;1mBearShout Load (2.0ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 27ms (View: 15, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 16:43:08) [GET]
+  [4;35;1mBearShout Load (1.8ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 25ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 16:43:16) [GET]
+  [4;36;1mBearShout Load (1.7ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 31ms (View: 20, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 16:43:28) [GET]
+  [4;35;1mBearShout Load (1.5ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 20ms (View: 11, DB: 1) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 16:43:37) [GET]
+  [4;36;1mBearShout Load (1.7ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 23ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 16:44:33) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 20ms (View: 10, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#create (for 127.0.0.1 at 2009-02-07 16:44:47) [POST]
+  Parameters: {"recaptcha_response_field"=>"swindling swan", "recaptcha_challenge_field"=>"02nM-pMSMz_P_--KxRMU6ESD-MvkdHVbC6hDU9XYRBOq4DbrWMZbik8GixLPvIAS_BCa7Vit1SKeNHEP8aZuYrIkDnCndT3fDRiMRrSBaLLkqRnTDYvjS7hcQfoVQkjB65iYvTpG_1o0jc-4z3qMKJ6HKwPOMNBBrkFhJgSGAwg1CSwz5_Ut4bCY9lqRBrZwAJqsZ6mq1KQhJfGl1TQAsMt3_dqmMl2tLYO3r15aQ8Q_T-q5chM9adlpX_DT1f_7FvJFQD8G_e3Unh6PjfYRMIEfD8c9oB", "commit"=>"Create", "bear_shout"=>{"name"=>"Maurin", "content"=>"Foooock"}, "authenticity_token"=>"f93aa93ba1119b1b649fed14ad0a1e65ac6b6767"}
+  [4;35;1mBearShout Create (0.8ms)[0m   [0mINSERT INTO "bear_shouts" ("name", "rating", "created_at", "updated_at", "content", "date_added") VALUES('Maurin', 0, '2009-02-07 15:44:47', '2009-02-07 15:44:47', 'Foooock', '2009-02-07 16:44:47')[0m
+Redirected to actionindex
+Completed in 478ms (DB: 1) | 302 Found [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 16:44:48) [GET]
+  [4;36;1mBearShout Load (1.7ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 26ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 16:44:54) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 37ms (View: 19, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#create (for 127.0.0.1 at 2009-02-07 16:45:04) [POST]
+  Parameters: {"recaptcha_response_field"=>"kjhasdkj akjsfsa", "recaptcha_challenge_field"=>"02P_o8B6CUfceeq0WB7i-oOZxDp1s-h4zQmr0GnjzT1-abLe2ye60z7tIlDMRE3Xqm6ZmuRR1G_7eJYBB8_EeiJFTVHsQXRcYH2s_1KrV_1b2lt4Xcco8POAYgV2gZ2wl54XZNOgNoHU3_jtlT6GNmLMABzb_9m6JtNTAu652YV8O0pCEjyq_PZiZ_sTC00pQjQhMlVImhaBbqd0-HVuBDMrQov8Ca0jIQRMUAD0sBP4gKt-ITAwMD", "commit"=>"Create", "bear_shout"=>{"name"=>"Test", "content"=>"ksajlfsjdh"}, "authenticity_token"=>"f93aa93ba1119b1b649fed14ad0a1e65ac6b6767"}
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 443ms (View: 16, DB: 0) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#create (for 127.0.0.1 at 2009-02-07 16:45:12) [POST]
+  Parameters: {"recaptcha_response_field"=>"franche", "recaptcha_challenge_field"=>"02iplC1RZ5axjpJYnoGb_JRaUFZ_vYQE7v-VYXwLyktQaPW39aXCkRICYfaqeRCwBdUlTyomxgCMl8dZjY8bteEOQE561_4AHTVPzb50guIYS4qZm9xdRIZ6-zwNan2wGA2QDCtIWTWpQr5UObsoPqBCiCVZGg238wutg0j8POxckY2-S0tAwcBU-vmSI-gvpvCbDKvWAEG_TjSwm-HQ2sws5pyC8irdPI7rW9x2MxeKDhKxPwAwMD", "commit"=>"Create", "bear_shout"=>{"name"=>"Test", "content"=>"ksajlfsjdh"}, "authenticity_token"=>"f93aa93ba1119b1b649fed14ad0a1e65ac6b6767"}
+  [4;35;1mBearShout Create (0.7ms)[0m   [0mINSERT INTO "bear_shouts" ("name", "rating", "created_at", "updated_at", "content", "date_added") VALUES('Test', 0, '2009-02-07 15:45:12', '2009-02-07 15:45:12', 'ksajlfsjdh', '2009-02-07 16:45:12')[0m
+Redirected to actionindex
+Completed in 410ms (DB: 1) | 302 Found [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 16:45:12) [GET]
+  [4;36;1mBearShout Load (3.4ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 34ms (View: 16, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 16:54:45) [GET]
+  [4;35;1mBearShout Load (1.8ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 22ms (View: 12, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-02-07 16:54:45) [GET]
+
+
+ActionController::RoutingError (No route matches "/images/top-gradient" with {:method=>:get}):
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/routing/recognition_optimisation.rb:66:in `recognize_path'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/routing/route_set.rb:386:in `recognize'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:182:in `handle_request'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `synchronize'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:103:in `handle_dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:74:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:60:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/commands/servers/webrick.rb:66
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:153:in `require'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:153:in `require'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/commands/server.rb:49
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+
+Rendering /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 16:54:46) [GET]
+  [4;36;1mBearShout Load (2.1ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 27ms (View: 12, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-02-07 16:54:46) [GET]
+
+
+ActionController::RoutingError (No route matches "/images/top-gradient" with {:method=>:get}):
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/routing/recognition_optimisation.rb:66:in `recognize_path'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/routing/route_set.rb:386:in `recognize'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:182:in `handle_request'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `synchronize'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:103:in `handle_dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:74:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:60:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/commands/servers/webrick.rb:66
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:153:in `require'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:153:in `require'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/commands/server.rb:49
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+
+Rendering /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 16:54:52) [GET]
+  [4;35;1mBearShout Load (3.5ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 42ms (View: 23, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-02-07 16:54:52) [GET]
+
+
+ActionController::RoutingError (No route matches "/images/top-gradient" with {:method=>:get}):
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/routing/recognition_optimisation.rb:66:in `recognize_path'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/routing/route_set.rb:386:in `recognize'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:182:in `handle_request'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `synchronize'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:103:in `handle_dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:74:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:60:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/commands/servers/webrick.rb:66
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:153:in `require'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:153:in `require'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/commands/server.rb:49
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+
+Rendering /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 16:55:04) [GET]
+  [4;36;1mBearShout Load (2.0ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 27ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 16:56:46) [GET]
+  [4;35;1mBearShout Load (2.3ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 104ms (View: 92, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 16:56:56) [GET]
+  [4;36;1mBearShout Load (3.5ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 44ms (View: 24, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 16:57:11) [GET]
+  [4;35;1mBearShout Load (2.3ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 29ms (View: 16, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 16:57:12) [GET]
+  [4;36;1mBearShout Load (1.7ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 23ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 16:57:28) [GET]
+  [4;35;1mBearShout Load (2.1ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 25ms (View: 14, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 16:57:35) [GET]
+  [4;36;1mBearShout Load (3.5ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 42ms (View: 23, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 16:57:39) [GET]
+  [4;35;1mBearShout Load (3.7ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 45ms (View: 25, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 16:57:48) [GET]
+  [4;36;1mBearShout Load (2.1ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 27ms (View: 15, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:00:31) [GET]
+  [4;35;1mBearShout Load (2.0ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 23ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-02-07 17:00:31) [GET]
+
+
+ActionController::RoutingError (No route matches "/calendar.png" with {:method=>:get}):
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/routing/recognition_optimisation.rb:66:in `recognize_path'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/routing/route_set.rb:386:in `recognize'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:182:in `handle_request'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `synchronize'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:103:in `handle_dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:74:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:60:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/commands/servers/webrick.rb:66
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:153:in `require'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:153:in `require'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/commands/server.rb:49
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+
+Rendering /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:00:45) [GET]
+  [4;36;1mBearShout Load (3.5ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 38ms (View: 19, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-02-07 17:00:45) [GET]
+
+
+ActionController::RoutingError (No route matches "/calendar.png" with {:method=>:get}):
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/routing/recognition_optimisation.rb:66:in `recognize_path'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/routing/route_set.rb:386:in `recognize'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:182:in `handle_request'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `synchronize'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:103:in `handle_dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:74:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:60:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/commands/servers/webrick.rb:66
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:153:in `require'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:153:in `require'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/commands/server.rb:49
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+
+Rendering /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:01:10) [GET]
+  [4;35;1mBearShout Load (3.5ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 35ms (View: 16, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:01:20) [GET]
+  [4;36;1mBearShout Load (2.5ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 29ms (View: 16, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-02-07 17:01:20) [GET]
+
+
+ActionController::RoutingError (No route matches "/calendar.png" with {:method=>:get}):
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/routing/recognition_optimisation.rb:66:in `recognize_path'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/routing/route_set.rb:386:in `recognize'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:182:in `handle_request'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `synchronize'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:103:in `handle_dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:74:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:60:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/commands/servers/webrick.rb:66
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:153:in `require'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:153:in `require'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/commands/server.rb:49
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+
+Rendering /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:01:39) [GET]
+  [4;35;1mBearShout Load (1.8ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 23ms (View: 12, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-02-07 17:01:40) [GET]
+
+
+ActionController::RoutingError (No route matches "/calendar.png" with {:method=>:get}):
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/routing/recognition_optimisation.rb:66:in `recognize_path'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/routing/route_set.rb:386:in `recognize'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:182:in `handle_request'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `synchronize'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:103:in `handle_dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:74:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:60:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/commands/servers/webrick.rb:66
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:153:in `require'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:153:in `require'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/commands/server.rb:49
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+
+Rendering /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:02:06) [GET]
+  [4;36;1mBearShout Load (1.8ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 23ms (View: 12, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:02:59) [GET]
+  [4;35;1mBearShout Load (3.5ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 42ms (View: 23, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:03:03) [GET]
+  [4;36;1mBearShout Load (1.8ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 23ms (View: 12, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:04:01) [GET]
+  [4;35;1mBearShout Load (3.6ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 33ms (View: 14, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:04:02) [GET]
+  [4;36;1mBearShout Load (3.5ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 44ms (View: 24, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:04:25) [GET]
+  [4;35;1mBearShout Load (1.8ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 22ms (View: 12, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:04:25) [GET]
+  [4;36;1mBearShout Load (2.3ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 28ms (View: 16, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:04:53) [GET]
+  [4;35;1mBearShout Load (2.0ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 101ms (View: 90, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:05:02) [GET]
+  [4;36;1mBearShout Load (2.1ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 25ms (View: 14, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:05:12) [GET]
+  [4;35;1mBearShout Load (3.5ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 43ms (View: 24, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:07:44) [GET]
+  [4;36;1mBearShout Load (1.9ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 25ms (View: 12, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:08:17) [GET]
+  [4;35;1mBearShout Load (1.9ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 25ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:08:18) [GET]
+  [4;36;1mBearShout Load (2.1ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 25ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:08:39) [GET]
+  [4;35;1mBearShout Load (1.8ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 23ms (View: 12, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:08:58) [GET]
+  [4;36;1mBearShout Load (1.8ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 28ms (View: 16, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:08:58) [GET]
+  [4;35;1mBearShout Load (1.8ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 23ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:09:39) [GET]
+  [4;36;1mBearShout Load (2.1ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 25ms (View: 14, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:09:56) [GET]
+  [4;35;1mBearShout Load (2.0ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 25ms (View: 14, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:10:16) [GET]
+  [4;36;1mBearShout Load (2.1ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 24ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:10:28) [GET]
+  [4;35;1mBearShout Load (2.3ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 29ms (View: 17, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:10:34) [GET]
+  [4;36;1mBearShout Load (3.7ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 43ms (View: 23, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:10:38) [GET]
+  [4;35;1mBearShout Load (3.6ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 43ms (View: 23, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:10:45) [GET]
+  [4;36;1mBearShout Load (3.5ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 42ms (View: 22, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:10:52) [GET]
+  [4;35;1mBearShout Load (2.1ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 25ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:11:10) [GET]
+  [4;36;1mBearShout Load (2.1ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 26ms (View: 14, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:11:36) [GET]
+  [4;35;1mBearShout Load (3.6ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 31ms (View: 12, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:11:44) [GET]
+  [4;36;1mBearShout Load (3.5ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 40ms (View: 21, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:12:36) [GET]
+  [4;35;1mBearShout Load (2.0ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 41ms (View: 17, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:12:37) [GET]
+  [4;36;1mBearShout Load (3.4ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 43ms (View: 23, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:12:45) [GET]
+  [4;35;1mBearShout Load (3.8ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 41ms (View: 22, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:12:51) [GET]
+  [4;36;1mBearShout Load (2.8ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 30ms (View: 16, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:12:58) [GET]
+  [4;35;1mBearShout Load (1.9ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 23ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:13:07) [GET]
+  [4;36;1mBearShout Load (2.0ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 24ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:13:18) [GET]
+  [4;35;1mBearShout Load (2.0ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 28ms (View: 16, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:13:25) [GET]
+  [4;36;1mBearShout Load (2.1ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 28ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:13:25) [GET]
+  [4;35;1mBearShout Load (3.6ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 40ms (View: 20, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:13:37) [GET]
+  [4;36;1mBearShout Load (2.1ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 29ms (View: 14, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:13:51) [GET]
+  [4;35;1mBearShout Load (2.1ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 25ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:14:08) [GET]
+  [4;36;1mBearShout Load (3.5ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 43ms (View: 23, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:14:42) [GET]
+  [4;35;1mBearShout Load (3.9ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 42ms (View: 23, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:14:55) [GET]
+  [4;36;1mBearShout Load (1.8ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 23ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:15:01) [GET]
+  [4;35;1mBearShout Load (3.6ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 33ms (View: 13, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:15:05) [GET]
+  [4;36;1mBearShout Load (1.8ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 23ms (View: 12, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:15:11) [GET]
+  [4;35;1mBearShout Load (2.0ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 25ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:15:11) [GET]
+  [4;36;1mBearShout Load (2.1ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 24ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:15:16) [GET]
+  [4;35;1mBearShout Load (4.3ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 127ms (View: 110, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:15:48) [GET]
+  [4;36;1mBearShout Load (2.0ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 25ms (View: 14, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:15:57) [GET]
+  [4;35;1mBearShout Load (3.6ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 35ms (View: 16, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:16:22) [GET]
+  [4;36;1mBearShout Load (3.6ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 42ms (View: 23, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:16:27) [GET]
+  [4;35;1mBearShout Load (3.8ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 38ms (View: 18, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:16:31) [GET]
+  [4;36;1mBearShout Load (2.0ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 24ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:16:37) [GET]
+  [4;35;1mBearShout Load (2.5ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 27ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:16:42) [GET]
+  [4;36;1mBearShout Load (2.1ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 24ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:16:53) [GET]
+  [4;35;1mBearShout Load (2.5ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 33ms (View: 15, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:17:02) [GET]
+  [4;36;1mBearShout Load (1.8ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 29ms (View: 19, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:17:07) [GET]
+  [4;35;1mBearShout Load (2.1ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 25ms (View: 14, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:17:11) [GET]
+  [4;36;1mBearShout Load (1.9ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 23ms (View: 12, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:17:31) [GET]
+  [4;35;1mBearShout Load (3.5ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 40ms (View: 20, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:17:36) [GET]
+  [4;36;1mBearShout Load (3.6ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 37ms (View: 17, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:17:48) [GET]
+  [4;35;1mBearShout Load (2.3ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 28ms (View: 15, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:18:10) [GET]
+  [4;36;1mBearShout Load (1.9ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 24ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:18:13) [GET]
+  [4;35;1mBearShout Load (1.7ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 96ms (View: 84, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:18:44) [GET]
+  [4;36;1mBearShout Load (1.9ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 22ms (View: 12, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:18:54) [GET]
+  [4;35;1mBearShout Load (1.9ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 23ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:18:56) [GET]
+  [4;36;1mBearShout Load (2.3ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 29ms (View: 15, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:18:57) [GET]
+  [4;35;1mBearShout Load (2.1ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 26ms (View: 14, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:18:57) [GET]
+  [4;36;1mBearShout Load (2.4ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 28ms (View: 15, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:19:03) [GET]
+  [4;35;1mBearShout Load (1.8ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 23ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:20:51) [GET]
+  [4;36;1mBearShout Load (3.6ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 36ms (View: 16, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:21:17) [GET]
+  [4;35;1mBearShout Load (3.4ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 43ms (View: 23, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:21:31) [GET]
+  [4;36;1mBearShout Load (1.8ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 33ms (View: 12, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:21:37) [GET]
+  [4;35;1mBearShout Load (3.6ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 43ms (View: 24, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:22:07) [GET]
+  [4;36;1mBearShout Load (2.1ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 26ms (View: 14, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:22:45) [GET]
+  [4;35;1mBearShout Load (2.5ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 29ms (View: 16, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:22:51) [GET]
+  [4;36;1mBearShout Load (2.0ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 26ms (View: 14, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:22:57) [GET]
+  [4;35;1mBearShout Load (3.6ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 42ms (View: 23, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:23:19) [GET]
+  [4;36;1mBearShout Load (3.6ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 43ms (View: 24, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:23:22) [GET]
+  [4;35;1mBearShout Load (2.0ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 100ms (View: 89, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:23:35) [GET]
+  [4;36;1mBearShout Load (2.1ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 29ms (View: 17, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:24:18) [GET]
+  [4;35;1mBearShout Load (3.8ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 43ms (View: 23, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:24:28) [GET]
+  [4;36;1mBearShout Load (2.0ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 28ms (View: 16, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:24:34) [GET]
+  [4;35;1mBearShout Load (2.5ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 29ms (View: 15, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:26:09) [GET]
+  [4;36;1mBearShout Load (4.1ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 43ms (View: 23, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:26:28) [GET]
+  [4;35;1mBearShout Load (2.0ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 25ms (View: 14, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:26:41) [GET]
+  [4;36;1mBearShout Load (1.8ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 23ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:26:54) [GET]
+  [4;35;1mBearShout Load (1.7ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 23ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:26:59) [GET]
+  [4;36;1mBearShout Load (2.8ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 28ms (View: 14, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:28:03) [GET]
+  [4;35;1mBearShout Load (9.2ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 42ms (View: 20, DB: 9) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:28:34) [GET]
+  [4;36;1mBearShout Load (1.8ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 22ms (View: 12, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:28:39) [GET]
+  [4;35;1mBearShout Load (2.3ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 28ms (View: 16, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:28:51) [GET]
+  [4;36;1mBearShout Load (2.0ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 24ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:29:03) [GET]
+  [4;35;1mBearShout Load (2.0ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 49ms (View: 38, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:29:22) [GET]
+  [4;36;1mBearShout Load (2.1ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 25ms (View: 14, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:29:24) [GET]
+  [4;35;1mBearShout Load (2.0ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 111ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:29:36) [GET]
+  [4;36;1mBearShout Load (3.5ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 43ms (View: 23, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:29:56) [GET]
+  [4;35;1mBearShout Load (3.5ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 42ms (View: 23, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 17:30:03) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 36ms (View: 19, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#create (for 127.0.0.1 at 2009-02-07 17:30:46) [POST]
+  Parameters: {"recaptcha_response_field"=>"red orpheum", "recaptcha_challenge_field"=>"02oJcy88woxYydhrYdcbIBY9Pp2RzhldTdt39n6zHcMs_9eFTX9HZIvCzLKzI61UUy6ASqTTpGNvxgnyEWwQ0gbgknBfdQgm9Sy32fRE7YoktnVO5_ZSMUdbXuJPB0D86USUZPsoz6bVowekNZGMbgjt5Z4s3ip3pdUhRmuexE3sRNOMa3EbvBwEeTqfCBhr3ORmjbGWg1RJbicfECSnF38rj5aGivYGdfvRQDnEslZwNN7O6YAwMD", "commit"=>"Create", "bear_shout"=>{"name"=>"Macker", "content"=>"This should be considered a pretty long entry. Lorem ipsum, dolor sit amet.  Lorem ipsum, dolor sit amet.  Lorem ipsum, dolor sit amet.  Lorem ipsum, dolor sit amet.  Lorem ipsum, dolor sit amet.  Lorem ipsum, dolor sit amet.\r\n\r\n\r\n Lorem ipsum, dolor sit amet.\r\n Lorem ipsum, dolor sit amet."}, "authenticity_token"=>"f93aa93ba1119b1b649fed14ad0a1e65ac6b6767"}
+  [4;36;1mBearShout Create (1.0ms)[0m   [0;1mINSERT INTO "bear_shouts" ("name", "rating", "created_at", "updated_at", "content", "date_added") VALUES('Macker', 0, '2009-02-07 16:30:47', '2009-02-07 16:30:47', 'This should be considered a pretty long entry. Lorem ipsum, dolor sit amet. Lorem ipsum, dolor sit amet. Lorem ipsum, dolor sit amet. Lorem ipsum, dolor sit amet. Lorem ipsum, dolor sit amet. Lorem ipsum, dolor sit amet.
+
+
+ Lorem ipsum, dolor sit amet.
+ Lorem ipsum, dolor sit amet.', '2009-02-07 17:30:46')[0m
+Redirected to actionindex
+Completed in 554ms (DB: 1) | 302 Found [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:30:47) [GET]
+  [4;35;1mBearShout Load (3.7ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 43ms (View: 24, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:31:00) [GET]
+  [4;36;1mBearShout Load (3.7ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 125ms (View: 104, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:31:15) [GET]
+  [4;35;1mBearShout Load (2.8ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 34ms (View: 14, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:31:57) [GET]
+  [4;36;1mBearShout Load (4.2ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 44ms (View: 24, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:32:03) [GET]
+  [4;35;1mBearShout Load (2.5ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 29ms (View: 16, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:32:30) [GET]
+  [4;36;1mBearShout Load (3.9ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 43ms (View: 24, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:32:43) [GET]
+  [4;35;1mBearShout Load (2.0ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 24ms (View: 12, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:32:50) [GET]
+  [4;36;1mBearShout Load (2.3ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 27ms (View: 15, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:32:59) [GET]
+  [4;35;1mBearShout Load (4.0ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 58ms (View: 38, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:33:04) [GET]
+  [4;36;1mBearShout Load (1.9ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 28ms (View: 12, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:33:44) [GET]
+  [4;35;1mBearShout Load (3.9ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 43ms (View: 24, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:35:36) [GET]
+  [4;36;1mBearShout Load (2.2ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 25ms (View: 14, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:35:37) [GET]
+  [4;35;1mBearShout Load (2.3ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 30ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:36:37) [GET]
+  [4;36;1mBearShout Load (3.9ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 43ms (View: 23, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:36:38) [GET]
+  [4;35;1mBearShout Load (3.8ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 44ms (View: 24, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:37:46) [GET]
+  [4;36;1mBearShout Load (2.2ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 25ms (View: 14, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:37:59) [GET]
+  [4;35;1mBearShout Load (3.9ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 45ms (View: 25, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:38:17) [GET]
+  [4;36;1mBearShout Load (2.1ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 24ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:38:21) [GET]
+  [4;35;1mBearShout Load (2.0ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 23ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:38:43) [GET]
+  [4;36;1mBearShout Load (3.8ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 35ms (View: 15, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:39:59) [GET]
+  [4;35;1mBearShout Load (3.8ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 44ms (View: 24, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:40:01) [GET]
+  [4;36;1mBearShout Load (2.0ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 29ms (View: 12, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:40:11) [GET]
+  [4;35;1mBearShout Load (2.7ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 31ms (View: 17, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:40:11) [GET]
+  [4;36;1mBearShout Load (2.1ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 26ms (View: 14, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:40:23) [GET]
+  [4;35;1mBearShout Load (2.5ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 30ms (View: 16, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:40:53) [GET]
+  [4;36;1mBearShout Load (2.2ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 25ms (View: 14, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:41:07) [GET]
+  [4;35;1mBearShout Load (3.8ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 34ms (View: 14, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:41:14) [GET]
+  [4;36;1mBearShout Load (1.9ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 93ms (View: 83, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:41:19) [GET]
+  [4;35;1mBearShout Load (2.1ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 25ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:41:51) [GET]
+  [4;36;1mBearShout Load (3.9ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 33ms (View: 12, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:42:07) [GET]
+  [4;35;1mBearShout Load (2.2ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 25ms (View: 14, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:42:38) [GET]
+  [4;36;1mBearShout Load (2.2ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 25ms (View: 14, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:43:32) [GET]
+  [4;35;1mBearShout Load (2.3ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 29ms (View: 14, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:45:12) [GET]
+  [4;36;1mBearShout Load (4.1ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 46ms (View: 25, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:45:22) [GET]
+  [4;35;1mBearShout Load (4.0ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 31ms (View: 12, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:46:48) [GET]
+  [4;36;1mBearShout Load (3.7ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 46ms (View: 25, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:47:55) [GET]
+  [4;35;1mBearShout Load (2.8ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 31ms (View: 17, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:52:00) [GET]
+  [4;36;1mBearShout Load (2.2ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+
+
+ActionView::TemplateError (undefined method `symbolize_keys!' for "/bear_shouts/new":String) on line #4 of app/views/bear_shouts/index.html.erb:
+1: <h1>What others have shouted at the bear for:</h1>
+2: <p style="color: green"><%= flash[:notice] %></p>
+3:  <p>
+4:    <%= link_to image_tag 'New bear_shout', new_bear_shout_path %>
+5:   </p>
+6: <div id="bearbox-list">
+7:   <% for bear_shout in @bear_shouts %>
+
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/helpers/asset_tag_helper.rb:452:in `image_tag'
+    app/views/bear_shouts/index.html.erb:4
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/renderable.rb:39:in `send'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/renderable.rb:39:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/template.rb:73:in `render_template'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:256:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:367:in `_render_with_layout'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:254:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1174:in `render_for_file'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:905:in `render_without_benchmark'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:51:in `render'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:51:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:135:in `send'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:135:in `custom'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:164:in `call'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:164:in `respond'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:158:in `each'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:158:in `respond'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:107:in `respond_to'
+    app/controllers/bear_shouts_controller.rb:7:in `index'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1253:in `send'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1253:in `perform_action_without_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:617:in `call_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/rescue.rb:136:in `perform_action_without_caching'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:13:in `perform_action'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/query_cache.rb:8:in `cache'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:12:in `perform_action'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `send'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `process_without_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:606:in `process_without_session_management_support'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/session_management.rb:134:in `process'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:392:in `process'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:183:in `handle_request'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `synchronize'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:103:in `handle_dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:74:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:60:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/commands/servers/webrick.rb:66
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:153:in `require'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:153:in `require'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/commands/server.rb:49
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+
+Rendered /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/_trace (56.6ms)
+Rendered /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/_request_and_response (1.4ms)
+Rendering /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (internal_server_error)
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:52:49) [GET]
+  [4;35;1mBearShout Load (2.1ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+
+
+ActionView::TemplateError (undefined method `symbolize_keys!' for "/bear_shouts/new":String) on line #4 of app/views/bear_shouts/index.html.erb:
+1: <h1>What others have shouted at the bear for:</h1>
+2: <p style="color: green"><%= flash[:notice] %></p>
+3:  <p>
+4:    <%=link_to image_tag "add.png", new_bear_shout_path%><%= link_to 'New bear_shout', new_bear_shout_path %>
+5:   </p>
+6: <div id="bearbox-list">
+7:   <% for bear_shout in @bear_shouts %>
+
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/helpers/asset_tag_helper.rb:452:in `image_tag'
+    app/views/bear_shouts/index.html.erb:4
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/renderable.rb:39:in `send'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/renderable.rb:39:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/template.rb:73:in `render_template'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:256:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:367:in `_render_with_layout'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:254:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1174:in `render_for_file'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:905:in `render_without_benchmark'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:51:in `render'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:51:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:135:in `send'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:135:in `custom'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:164:in `call'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:164:in `respond'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:158:in `each'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:158:in `respond'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:107:in `respond_to'
+    app/controllers/bear_shouts_controller.rb:7:in `index'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1253:in `send'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1253:in `perform_action_without_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:617:in `call_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/rescue.rb:136:in `perform_action_without_caching'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:13:in `perform_action'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/query_cache.rb:8:in `cache'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:12:in `perform_action'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `send'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `process_without_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:606:in `process_without_session_management_support'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/session_management.rb:134:in `process'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:392:in `process'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:183:in `handle_request'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `synchronize'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:103:in `handle_dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:74:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:60:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/commands/servers/webrick.rb:66
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:153:in `require'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:153:in `require'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/commands/server.rb:49
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+
+Rendered /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/_trace (53.9ms)
+Rendered /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/_request_and_response (1.2ms)
+Rendering /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (internal_server_error)
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:52:50) [GET]
+  [4;36;1mBearShout Load (4.0ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+
+
+ActionView::TemplateError (undefined method `symbolize_keys!' for "/bear_shouts/new":String) on line #4 of app/views/bear_shouts/index.html.erb:
+1: <h1>What others have shouted at the bear for:</h1>
+2: <p style="color: green"><%= flash[:notice] %></p>
+3:  <p>
+4:    <%=link_to image_tag "add.png", new_bear_shout_path%><%= link_to 'New bear_shout', new_bear_shout_path %>
+5:   </p>
+6: <div id="bearbox-list">
+7:   <% for bear_shout in @bear_shouts %>
+
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/helpers/asset_tag_helper.rb:452:in `image_tag'
+    app/views/bear_shouts/index.html.erb:4
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/renderable.rb:39:in `send'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/renderable.rb:39:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/template.rb:73:in `render_template'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:256:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:367:in `_render_with_layout'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:254:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1174:in `render_for_file'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:905:in `render_without_benchmark'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:51:in `render'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:51:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:135:in `send'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:135:in `custom'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:164:in `call'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:164:in `respond'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:158:in `each'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:158:in `respond'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:107:in `respond_to'
+    app/controllers/bear_shouts_controller.rb:7:in `index'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1253:in `send'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1253:in `perform_action_without_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:617:in `call_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/rescue.rb:136:in `perform_action_without_caching'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:13:in `perform_action'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/query_cache.rb:8:in `cache'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:12:in `perform_action'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `send'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `process_without_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:606:in `process_without_session_management_support'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/session_management.rb:134:in `process'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:392:in `process'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:183:in `handle_request'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `synchronize'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:103:in `handle_dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:74:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:60:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/commands/servers/webrick.rb:66
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:153:in `require'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:153:in `require'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/commands/server.rb:49
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+
+Rendered /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/_trace (55.2ms)
+Rendered /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/_request_and_response (1.0ms)
+Rendering /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (internal_server_error)
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:53:18) [GET]
+  [4;35;1mBearShout Load (3.7ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+
+
+ActionView::TemplateError (undefined method `[]' for :add:Symbol) on line #4 of app/views/bear_shouts/index.html.erb:
+1: <h1>What others have shouted at the bear for:</h1>
+2: <p style="color: green"><%= flash[:notice] %></p>
+3:  <p>
+4:    <%=link_to (image_tag :add), new_bear_shout_path%><%= link_to 'New bear_shout', new_bear_shout_path %>
+5:   </p>
+6: <div id="bearbox-list">
+7:   <% for bear_shout in @bear_shouts %>
+
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/helpers/asset_tag_helper.rb:590:in `compute_public_path'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/helpers/asset_tag_helper.rb:587:in `synchronize'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/helpers/asset_tag_helper.rb:587:in `compute_public_path'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/helpers/asset_tag_helper.rb:551:in `_unmemoized_public_path'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/memoizable.rb:57:in `public_path'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/helpers/asset_tag_helper.rb:414:in `path_to_image'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/helpers/asset_tag_helper.rb:454:in `image_tag'
+    app/views/bear_shouts/index.html.erb:4
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/renderable.rb:39:in `send'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/renderable.rb:39:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/template.rb:73:in `render_template'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:256:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:367:in `_render_with_layout'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:254:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1174:in `render_for_file'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:905:in `render_without_benchmark'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:51:in `render'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:51:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:135:in `send'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:135:in `custom'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:164:in `call'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:164:in `respond'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:158:in `each'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:158:in `respond'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:107:in `respond_to'
+    app/controllers/bear_shouts_controller.rb:7:in `index'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1253:in `send'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1253:in `perform_action_without_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:617:in `call_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/rescue.rb:136:in `perform_action_without_caching'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:13:in `perform_action'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/query_cache.rb:8:in `cache'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:12:in `perform_action'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `send'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `process_without_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:606:in `process_without_session_management_support'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/session_management.rb:134:in `process'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:392:in `process'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:183:in `handle_request'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `synchronize'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:103:in `handle_dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:74:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:60:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/commands/servers/webrick.rb:66
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:153:in `require'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:153:in `require'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/commands/server.rb:49
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+
+Rendered /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/_trace (142.5ms)
+Rendered /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/_request_and_response (1.1ms)
+Rendering /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (internal_server_error)
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:53:26) [GET]
+  [4;36;1mBearShout Load (2.2ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 28ms (View: 17, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 17:53:28) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 38ms (View: 19, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:53:56) [GET]
+  [4;35;1mBearShout Load (1.9ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+
+
+ActionView::TemplateError (undefined method `symbolize_keys!' for "/bear_shouts/new":String) on line #4 of app/views/bear_shouts/index.html.erb:
+1: <h1>What others have shouted at the bear for:</h1>
+2: <p style="color: green"><%= flash[:notice] %></p>
+3:  <p>
+4:    <%= link_to image_tag "add.png", new_bear_shout_path%><%= link_to 'New bear_shout', new_bear_shout_path %>
+5:   </p>
+6: <div id="bearbox-list">
+7:   <% for bear_shout in @bear_shouts %>
+
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/helpers/asset_tag_helper.rb:452:in `image_tag'
+    app/views/bear_shouts/index.html.erb:4
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/renderable.rb:39:in `send'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/renderable.rb:39:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/template.rb:73:in `render_template'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:256:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:367:in `_render_with_layout'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:254:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1174:in `render_for_file'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:905:in `render_without_benchmark'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:51:in `render'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:51:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:135:in `send'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:135:in `custom'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:164:in `call'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:164:in `respond'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:158:in `each'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:158:in `respond'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:107:in `respond_to'
+    app/controllers/bear_shouts_controller.rb:7:in `index'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1253:in `send'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1253:in `perform_action_without_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:617:in `call_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/rescue.rb:136:in `perform_action_without_caching'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:13:in `perform_action'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/query_cache.rb:8:in `cache'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:12:in `perform_action'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `send'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `process_without_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:606:in `process_without_session_management_support'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/session_management.rb:134:in `process'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:392:in `process'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:183:in `handle_request'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `synchronize'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:103:in `handle_dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:74:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:60:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/commands/servers/webrick.rb:66
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:153:in `require'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:153:in `require'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/commands/server.rb:49
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+
+Rendered /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/_trace (135.2ms)
+Rendered /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/_request_and_response (1.2ms)
+Rendering /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (internal_server_error)
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:54:17) [GET]
+  [4;36;1mBearShout Load (3.8ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 35ms (View: 15, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:54:41) [GET]
+  [4;35;1mBearShout Load (2.5ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 29ms (View: 17, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:54:42) [GET]
+  [4;36;1mBearShout Load (3.8ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 41ms (View: 21, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:54:46) [GET]
+  [4;35;1mBearShout Load (2.1ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 24ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:55:11) [GET]
+  [4;36;1mBearShout Load (2.0ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 24ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:55:22) [GET]
+  [4;35;1mBearShout Load (3.8ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 46ms (View: 26, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:56:20) [GET]
+  [4;36;1mBearShout Load (2.2ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 26ms (View: 15, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:56:22) [GET]
+  [4;35;1mBearShout Load (3.8ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 38ms (View: 18, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:56:23) [GET]
+  [4;36;1mBearShout Load (2.3ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 26ms (View: 14, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:57:41) [GET]
+  [4;35;1mBearShout Load (2.0ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 24ms (View: 14, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:58:15) [GET]
+  [4;36;1mBearShout Load (2.2ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 26ms (View: 15, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:58:16) [GET]
+  [4;35;1mBearShout Load (3.7ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 46ms (View: 26, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:58:26) [GET]
+  [4;36;1mBearShout Load (2.2ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 26ms (View: 14, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 17:58:29) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 37ms (View: 19, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 17:59:11) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 38ms (View: 20, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 17:59:42) [GET]
+  [4;35;1mBearShout Load (3.8ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 37ms (View: 16, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:00:21) [GET]
+  [4;36;1mBearShout Load (2.0ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 25ms (View: 15, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:00:32) [GET]
+  [4;35;1mBearShout Load (2.2ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 24ms (View: 14, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:00:37) [GET]
+  [4;36;1mBearShout Load (2.7ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 30ms (View: 17, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 18:00:49) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 20ms (View: 10, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#create (for 127.0.0.1 at 2009-02-07 18:01:13) [POST]
+  Parameters: {"recaptcha_response_field"=>"rickman only", "recaptcha_challenge_field"=>"02Y00rDr5zkji2NNzGRg60OmB59FTxXnoFQui9jVfJS41s9PCU0350Rv70wxiA_8Dfnct-mDbwliuLFdyNrp8G369SDxzZwwt2Emad1tS7zzEHxUDDBU40OBphMAMq-qop72N6FY12iPhDTyjloPNhyRgdXWoIPwC-afWcViB8PCXeYS5nfJu0aDDLDriNM8ccld2uxPBgWeZ4p2Fu6NYb_P0c0nByTXsDkHekQuQa6WLXeU6CFdrNWSUbI2N1-YjqA58safgW3d_DlNFP5-gbZoUAfDMB", "commit"=>"Create", "bear_shout"=>{"name"=>"Maurin", "content"=>"Sicher nöd ganz suuuber!!"}, "authenticity_token"=>"f93aa93ba1119b1b649fed14ad0a1e65ac6b6767"}
+  [4;35;1mBearShout Create (0.8ms)[0m   [0mINSERT INTO "bear_shouts" ("name", "rating", "created_at", "updated_at", "content", "date_added") VALUES('Maurin', 0, '2009-02-07 17:01:13', '2009-02-07 17:01:13', 'Sicher nöd ganz suuuber!!', '2009-02-07 18:01:13')[0m
+Redirected to actionindex
+Completed in 521ms (DB: 1) | 302 Found [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:01:13) [GET]
+  [4;36;1mBearShout Load (2.0ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 23ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:01:19) [GET]
+  [4;35;1mBearShout Load (2.2ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 24ms (View: 14, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:01:53) [GET]
+  [4;36;1mBearShout Load (2.2ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 24ms (View: 14, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:02:00) [GET]
+  [4;35;1mBearShout Load (4.2ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 33ms (View: 13, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:03:55) [GET]
+  [4;36;1mBearShout Load (2.8ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 30ms (View: 17, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:04:33) [GET]
+  [4;35;1mBearShout Load (2.2ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 26ms (View: 15, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:04:43) [GET]
+  [4;36;1mBearShout Load (4.6ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 46ms (View: 25, DB: 5) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 18:05:04) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 33ms (View: 14, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#create (for 127.0.0.1 at 2009-02-07 18:05:07) [POST]
+  Parameters: {"recaptcha_response_field"=>"", "recaptcha_challenge_field"=>"02oh_F-bMswcrwMurBIKaGaGK_tJzFlh6SELw1DMB6al31DP2UMLEpkbjm9Tp9Qpquedh1D6PonxF5CBxo6qMXC3zzi3mA5xjQ61WdAWcfNvV5W4mItmQKvnbA12YpZ2UbZeZrze8hFK7ErHaVPMwJugGTUP57Bb9eqJpZgE8t24rKrkbe9e5He8ozA5M9oIfSw94K5KosFP_DkVwky-VK0jjJA2uGW6l49dLDoKTu94qm70JnUMSCeSkD7xgD20o-qp0YWWIGs1o88qPEFC1su6JTOnEB", "commit"=>"Create", "bear_shout"=>{"name"=>"", "content"=>""}, "authenticity_token"=>"f93aa93ba1119b1b649fed14ad0a1e65ac6b6767"}
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 538ms (View: 15, DB: 0) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#create (for 127.0.0.1 at 2009-02-07 18:05:09) [POST]
+  Parameters: {"recaptcha_response_field"=>"", "recaptcha_challenge_field"=>"02uBNLuKuAi4cp9Oxc6ryBOUa7fWrGdprKnvSN0WS-y3o_o-33JD2UFVqysfrybnBTluSFNwvMbKoJq6t0R6wHhk8MDR3cOAd5-x7lxsvvAkW3cEgb6t_N31ZDhq-xkwZjPZkGSaLnyb-_xna4OiVyr4lXHjkmKMcOnqvca4mjUWngMxtTtzyaYeMrE3tZAsUvFQSkRtPiLEvVjEMh4tCmuGtP0HD6WIyXy4RmlWXx3dornkxSofNRBYqudvprIAbSX_iuEmkSGMhc5ssNqyhMt8CIY1EB", "commit"=>"Create", "bear_shout"=>{"name"=>"", "content"=>""}, "authenticity_token"=>"f93aa93ba1119b1b649fed14ad0a1e65ac6b6767"}
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 514ms (View: 14, DB: 0) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#create (for 127.0.0.1 at 2009-02-07 18:05:15) [POST]
+  Parameters: {"recaptcha_response_field"=>"kill ", "recaptcha_challenge_field"=>"02CnweptegwOw9ovyTpstQgz771Z6ReAct1xGastXSIiJrMTvQcHCZ5TqvQPGjxIYyBwXyyNCG0F1yIs83Rs8ajVnSGYYlkd_ch_SslKYJAFbWI2D0sfgX2zZnm3iBtZmu0bd_-vvVaXNQWqASXr2asK_iRihMsmE2nyCXSvV65i0hlGVCqEcrjpsP_k4KqW3bjWvhXyRSL0KVyN9tAmqW8NpNQIDNa9-w4daTkvpNp9DWVyVDGTMuIXB04BeE96c39GISdU_5UJdv7Ncu9ur-_WjUgScB", "commit"=>"Create", "bear_shout"=>{"name"=>"", "content"=>""}, "authenticity_token"=>"f93aa93ba1119b1b649fed14ad0a1e65ac6b6767"}
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 497ms (View: 16, DB: 0) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#create (for 127.0.0.1 at 2009-02-07 18:05:26) [POST]
+  Parameters: {"recaptcha_response_field"=>"cyrus chiropraphy", "recaptcha_challenge_field"=>"02Jo_1VQ6Pl8rVzH-2pL8m8aWPDmc2NujWH4VscXRhZ8O6IP16oIrelrBkDAHiYomw3SEdoaMJcoSodtIT5ZIBakTbU2L5jf7yOgyBRaDhYXtYo9XEZNppwc8SsVQhdPp_OLNwsp82rBLbGMrhTgpgRwY6QE3N_70DN7-01uVNrkNiWKncuw5rze_fWwydDJsons93aDLk8nsE7QF2GWjCvCPyrp8vb6xfJ2blYVcrIqjqzwKZLNOOj-R2rVd2nM2QCUlZe7su1wQ6SvCqoTNhuj1oA5cB", "commit"=>"Create", "bear_shout"=>{"name"=>"", "content"=>""}, "authenticity_token"=>"f93aa93ba1119b1b649fed14ad0a1e65ac6b6767"}
+
+
+ActiveRecord::RecordInvalid (Validation failed: Name can't be blank, Content can't be blank):
+    /usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/validations.rb:1021:in `save_without_dirty!'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/dirty.rb:87:in `save_without_transactions!'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/transactions.rb:150:in `save!'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/connection_adapters/abstract/database_statements.rb:66:in `transaction'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/transactions.rb:129:in `transaction'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/transactions.rb:138:in `transaction'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/transactions.rb:150:in `save!'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/transactions.rb:158:in `rollback_active_record_state!'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/transactions.rb:150:in `save!'
+    /app/controllers/bear_shouts_controller.rb:48:in `create'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:106:in `call'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/mime_responds.rb:106:in `respond_to'
+    /app/controllers/bear_shouts_controller.rb:47:in `create'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1253:in `send'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1253:in `perform_action_without_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:617:in `call_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/rescue.rb:136:in `perform_action_without_caching'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:13:in `perform_action'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/query_cache.rb:8:in `cache'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:12:in `perform_action'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `send'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `process_without_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:606:in `process_without_session_management_support'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/session_management.rb:134:in `process'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:392:in `process'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:183:in `handle_request'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `synchronize'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:103:in `handle_dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:74:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/webrick_server.rb:60:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/commands/servers/webrick.rb:66
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:153:in `require'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:153:in `require'
+    /usr/lib/ruby/gems/1.8/gems/rails-2.2.2/lib/commands/server.rb:49
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+
+Rendered /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/_trace (65.4ms)
+Rendered /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/_request_and_response (1.2ms)
+Rendering /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (unprocessable_entity)
+
+
+Processing BearShoutsController#create (for 127.0.0.1 at 2009-02-07 18:06:08) [POST]
+  Parameters: {"recaptcha_response_field"=>"inducement heels", "recaptcha_challenge_field"=>"025TPwx6dO5kuhzJD6ARVLwDlz_zdZuygdsquWyL1tUH2iBjqAloJbvzs9Gi60U6MtHHlf3ezrU8YGdF5KPywLp4xtNyO8_HivFLH-eN1oxJ6C6uVfDpYYRw0ewSWBDCsfiFPsoJyfjQfb1gF27uIhCwpeS8abg41NPXpRFUADxb35ufWJoL29SEPtysRzHNSYNWnWNL4LcARP461vcFFvGK1c4ZH_ek44dufKMHe5fEHUcz_pAwMD", "commit"=>"Create", "bear_shout"=>{"name"=>"", "content"=>""}, "authenticity_token"=>"f93aa93ba1119b1b649fed14ad0a1e65ac6b6767"}
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 587ms (View: 24, DB: 0) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:06:28) [GET]
+  [4;35;1mBearShout Load (3.2ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 32ms (View: 13, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:10:04) [GET]
+  [4;36;1mBearShout Load (2.1ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 109ms (View: 14, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:10:06) [GET]
+  [4;35;1mBearShout Load (4.1ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 46ms (View: 26, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:10:07) [GET]
+  [4;36;1mBearShout Load (2.4ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 30ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:10:07) [GET]
+  [4;35;1mBearShout Load (2.1ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 24ms (View: 14, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:10:07) [GET]
+  [4;36;1mBearShout Load (2.3ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 27ms (View: 15, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:11:13) [GET]
+  [4;35;1mBearShout Load (2.4ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 125ms (View: 15, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:11:33) [GET]
+  [4;36;1mBearShout Load (2.8ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 31ms (View: 18, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:21:40) [GET]
+  [4;35;1mBearShout Load (4.6ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 47ms (View: 26, DB: 5) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:21:41) [GET]
+  [4;36;1mBearShout Load (4.3ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 35ms (View: 15, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:22:08) [GET]
+  [4;35;1mBearShout Load (2.1ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 25ms (View: 14, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:22:44) [GET]
+  [4;36;1mBearShout Load (4.4ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 46ms (View: 25, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:22:47) [GET]
+  [4;35;1mBearShout Load (2.5ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 32ms (View: 17, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:22:53) [GET]
+  [4;36;1mBearShout Load (2.4ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 26ms (View: 15, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:23:05) [GET]
+  [4;35;1mBearShout Load (2.1ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 23ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:23:09) [GET]
+  [4;36;1mBearShout Load (2.2ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 25ms (View: 14, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:23:13) [GET]
+  [4;35;1mBearShout Load (2.6ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 28ms (View: 16, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:23:19) [GET]
+  [4;36;1mBearShout Load (2.1ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 23ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 18:23:36) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 19ms (View: 10, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:25:28) [GET]
+  [4;35;1mBearShout Load (2.2ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 24ms (View: 13, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 18:25:30) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 21ms (View: 11, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 18:25:31) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 38ms (View: 20, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:25:39) [GET]
+  [4;36;1mBearShout Load (4.2ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 35ms (View: 15, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 18:25:41) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 37ms (View: 19, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#create (for 127.0.0.1 at 2009-02-07 18:26:16) [POST]
+  Parameters: {"recaptcha_response_field"=>"79 themselvers", "recaptcha_challenge_field"=>"02u_bo4AjeF92nLI2AxPHb2dPEBR0ZLQ6t_DRLKJbOJAlhd2KaAHdzFRreD4kAOIITopifzehkK-h5IPQaNa7f9c3Ww3gvvRo_ZWxXa7cirTpnjJSCH1sqcKaTVeZ4UMUNpE7kb1kaYgzEBW4t_W7byGRWfnfZ4G3adoJaaWPqPNN90s5gTIpVB_0EyDe2vbWb-zVGezYLlkRYnlpYKZt4rTg5d4w-Pkfm5bnkqmkyt4KAgR3r5_tWtn7BqnMN-qghJR-lK_b7kteuBi6fJswyids_YpUGiO0y07rrQKy7zJHvMuzYAwMD", "commit"=>"Create", "bear_shout"=>{"name"=>"Test", "content"=>"Dies ist nur ein Test mit einem mittellangen Text. So jetzt reichts dann!!"}, "authenticity_token"=>"f93aa93ba1119b1b649fed14ad0a1e65ac6b6767"}
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 546ms (View: 16, DB: 0) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#create (for 127.0.0.1 at 2009-02-07 18:26:26) [POST]
+  Parameters: {"recaptcha_response_field"=>"belzner decrease", "recaptcha_challenge_field"=>"02EbVCHDJe8JIVVLdyRDymRoP6cEMkqV31neLfpFNswmxwzFgI3zhFkFhcU5J_RMntrMk1wJAEAdd-DSocJ-HQUerKGPpuLI0UykYbDu8L8kB3ov6DrRaFzR9_jaoW2NgKZUbHB5EL4UeyjR1yDLNi28aCvmFNs2aqfp26xtR15MhhR8VxRV9gTlrfLl6SvspeG7y3S4AC4BqiG1hENg7XVcmWaRMW0Fdr8O5E1LrtgKSHHHZh48dex4epa8esmf44k7PAgI-OYlO-lchD7kdQ5N56wAoB", "commit"=>"Create", "bear_shout"=>{"name"=>"Test", "content"=>"Dies ist nur ein Test mit einem mittellangen Text. So jetzt reichts dann!!"}, "authenticity_token"=>"f93aa93ba1119b1b649fed14ad0a1e65ac6b6767"}
+  [4;35;1mBearShout Create (0.8ms)[0m   [0mINSERT INTO "bear_shouts" ("name", "rating", "created_at", "updated_at", "content", "date_added") VALUES('Test', 0, '2009-02-07 17:26:26', '2009-02-07 17:26:26', 'Dies ist nur ein Test mit einem mittellangen Text. So jetzt reichts dann!!', '2009-02-07 18:26:26')[0m
+Redirected to actionindex
+Completed in 521ms (DB: 1) | 302 Found [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:26:26) [GET]
+  [4;36;1mBearShout Load (2.2ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 24ms (View: 14, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:26:31) [GET]
+  [4;35;1mBearShout Load (4.4ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 50ms (View: 28, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 18:31:32) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 19ms (View: 10, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:32:53) [GET]
+  [4;36;1mBearShout Load (3.0ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 31ms (View: 18, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:33:34) [GET]
+  [4;35;1mBearShout Load (15.2ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 43ms (View: 16, DB: 15) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:33:46) [GET]
+  [4;36;1mBearShout Load (2.9ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 113ms (View: 101, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:34:31) [GET]
+  [4;35;1mBearShout Load (4.8ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 35ms (View: 14, DB: 5) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:35:06) [GET]
+  [4;36;1mBearShout Load (4.5ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 38ms (View: 17, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 18:35:07) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 19ms (View: 10, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:35:54) [GET]
+  [4;35;1mBearShout Load (2.5ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 32ms (View: 16, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 18:35:55) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 22ms (View: 10, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 18:35:57) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 38ms (View: 20, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 18:36:08) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 19ms (View: 10, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:36:18) [GET]
+  [4;36;1mBearShout Load (4.5ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 49ms (View: 27, DB: 5) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:36:50) [GET]
+  [4;35;1mBearShout Load (2.6ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 27ms (View: 16, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:37:23) [GET]
+  [4;36;1mBearShout Load (2.3ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 26ms (View: 15, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 18:37:29) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 38ms (View: 20, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 18:37:53) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 38ms (View: 20, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 18:38:25) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 22ms (View: 11, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 18:38:26) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 21ms (View: 10, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 18:38:34) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 21ms (View: 11, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 18:39:24) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 21ms (View: 11, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 18:39:40) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 38ms (View: 20, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 18:39:47) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 23ms (View: 11, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 18:40:00) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 37ms (View: 19, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 18:40:18) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 22ms (View: 12, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 18:40:25) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 22ms (View: 11, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 18:40:31) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 29ms (View: 14, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 18:40:39) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 22ms (View: 11, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:41:50) [GET]
+  [4;35;1mBearShout Load (4.5ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 48ms (View: 27, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:41:53) [GET]
+  [4;36;1mBearShout Load (2.3ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 26ms (View: 14, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:41:55) [GET]
+  [4;35;1mBearShout Load (4.4ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 41ms (View: 21, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 18:41:56) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 29ms (View: 10, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 18:42:13) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 27ms (View: 14, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:42:15) [GET]
+  [4;36;1mBearShout Load (2.8ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 28ms (View: 14, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:42:16) [GET]
+  [4;35;1mBearShout Load (4.4ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 47ms (View: 27, DB: 4) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 18:42:18) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 21ms (View: 11, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:42:19) [GET]
+  [4;36;1mBearShout Load (4.7ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 50ms (View: 28, DB: 5) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 18:42:21) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 20ms (View: 11, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:42:22) [GET]
+  [4;35;1mBearShout Load (4.6ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 49ms (View: 28, DB: 5) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:45:33) [GET]
+  [4;36;1mBearShout Load (2.6ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 28ms (View: 14, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:45:33) [GET]
+  [4;35;1mBearShout Load (4.6ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 41ms (View: 20, DB: 5) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 18:45:35) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 21ms (View: 11, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:45:37) [GET]
+  [4;36;1mBearShout Load (2.3ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 26ms (View: 15, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:45:38) [GET]
+  [4;35;1mBearShout Load (2.2ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 29ms (View: 14, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 18:45:39) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 20ms (View: 10, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:45:40) [GET]
+  [4;36;1mBearShout Load (2.8ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 31ms (View: 14, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 18:45:42) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 37ms (View: 19, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:45:43) [GET]
+  [4;35;1mBearShout Load (2.1ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 25ms (View: 15, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#new (for 127.0.0.1 at 2009-02-07 18:45:55) [GET]
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/new
+Completed in 21ms (View: 11, DB: 0) | 200 OK [http://localhost/bear_shouts/new]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:45:58) [GET]
+  [4;36;1mBearShout Load (2.3ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added DESC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 26ms (View: 15, DB: 2) | 200 OK [http://localhost/bear_shouts]

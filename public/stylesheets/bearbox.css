@@ -17,53 +17,106 @@ div#bearbox-teddy{
     z-index: -1;
 }
 
+
 div#content{
     margin-left: 400px;
     width: 600px;
     z-index: 2;
 }
 
-p.month{
-    background-color: #c6c6c6;
-    width: 40px;
-    height: 20px;
-    margin:0;
-    text-align: center;
-    font-style: normal;
-    font-weight: 600;
+div.calendar{
+    margin: 8px;
+    height: 80px;
+    width: 80px;
+    background-image: url(../images/calendar.png);
+    background-repeat: no-repeat;
 }
 
-p.day{
-    background-color: #c6c6c6;
-    width:40px;
+div.month{
+    width: 80px;
+    margin:0;
+    top: 3px;
+
+    text-align: center;
+    position: relative;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 11pt;
+}
+
+div.day{
+    width:80px;
     margin: 0;
     text-align: center;
+    position: relative;
+    top: 22px;
+    
+  
     font-style: normal;
-    font-weight: 600;
-    font-size: larger;
+    font-weight: 900;
+    font-size: 24pt;
+}
+
+
+
+p.quote{
+    margin-top: -62px;
+    padding-top: 5px;
+    padding-left: 120px;
+    width: 300px;
+    font-family: "Palatino, serif", "Bookman, serif", "Times, serif";
+    font-size: 14pt;
+    text-align: justify;
+    line-height: 18pt;
+    font-style: italic;
+}
+
+span.quote{
+    font-size: 22pt;
+    font-weight: bold;
 }
 
 p.name{
-    margin-left: 20px;
+    font-family: "Palatino, serif", "Bookman, serif", "Times, serif";
+    width: 420px;
+    text-align: right;
+    font-size: 10pt;
+    margin-top: -20px;
 }
 
-p.content{
-    margin-left: 60px;
+p#new-link{
+    text-align: right;
+    width: 480px;
+}
+
+a>img{
+    border: 0;
+    margin-top: 5px;
+}
+
+img.typo{
+    margin-top: 10px;
+    margin-bottom: -20px;
+}
+
+a>img:hover{
+    
+    background-color: #f6f6f6;
 }
 
 div.bearshout{
-    width : 400px;
+    width : 480px;
+    border: 1px solid #cccccc;
+    margin-bottom: 20px;
 }
 
 div#bearbox-list{
     width: 500px;
 }
 
-div.clear {
-    clear: both;
-    display: block;
-    height: 1px;
-    overflow: hidden;
-    margin: 0;
-    padding: 0;
+div#bracket{
+    background-image: url(../images/bracket.png);
+    background-position: left top;
+    background-repeat:no-repeat;
+    height: 80px;
 }

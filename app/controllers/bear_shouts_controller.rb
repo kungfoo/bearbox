@@ -45,7 +45,7 @@ class BearShoutsController < ApplicationController
     @bear_shout.rating = 0
 
     respond_to do |format|
-      if verify_recaptcha(@bear_shout) && @bear_shout.save!
+      if verify_recaptcha(@bear_shout) && @bear_shout.save
         flash[:notice] = 'Your bearshout was successfully created.'
         format.html { redirect_to(:action => :index) }
         format.xml  { render :xml => @bear_shout, :status => :created, :location => @bear_shout }

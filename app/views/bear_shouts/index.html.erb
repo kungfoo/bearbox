@@ -1,29 +1,25 @@
-<h1>What others have shouted at the bear for:</h1>
+<%= link_to image_tag("typo.png", :class => "typo"), :action => :index  %>
+
 <p style="color: green"><%= flash[:notice] %></p>
+ <p id="new-link">
+   <%= link_to image_tag("add.png"), new_bear_shout_path%><%= link_to 'New bear_shout', new_bear_shout_path %>
+  </p>
 <div id="bearbox-list">
   <% for bear_shout in @bear_shouts %>
     <div id="shout<%= bear_shout.id %>" class="bearshout">
-      <table id="calendar_<%= bear_shout.id %>">
-
-        <tr>
-          <td>
-            <p class="month"><%= Date::ABBR_MONTHNAMES[bear_shout.date_added.month] %></p>
-            <p class="day"><%= bear_shout.date_added.mday %></p>
-          </td>
-          <td>
-            <p class="name">
-             <%= bear_shout.name %>
-            </p>
-          </td>
-        </tr>
-
-      </table>
-      <p class="content">
-        <%= h bear_shout.content %>
+      <div class="calendar">
+        <div class="month"><%= Date::ABBR_MONTHNAMES[bear_shout.date_added.month] %></div>
+        <div class="day"><%= bear_shout.date_added.mday %></div>
+      </div>
+      <p class="quote">
+        <span class="quote">&quot;</span><%= h bear_shout.content %><span class="quote">&quot;</span>
+      </p>
+      <p class="name">
+        by <%= h bear_shout.name %>
       </p>
     </div>
   <% end %>
-  <p>
-    <%= link_to 'New bear_shout', new_bear_shout_path %>
-  </p>
+ 
 </div>
+
+<div id="bracket">&nbsp;</div>
