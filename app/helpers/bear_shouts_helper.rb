@@ -1,0 +1,2 @@
+module BearShoutsHelper
+end

@@ -1,0 +1,28 @@
+<h1>Editing bear_shout</h1>
+
+<% form_for(@bear_shout) do |f| %>
+  <%= f.error_messages %>
+
+  <p>
+    <%= f.label :name %><br />
+    <%= f.text_field :name %>
+  </p>
+  <p>
+    <%= f.label :content %><br />
+    <%= f.text_area :content %>
+  </p>
+  <p>
+    <%= f.label :date_added %><br />
+    <%= f.date_select :date_added %>
+  </p>
+  <p>
+    <%= f.label :rating %><br />
+    <%= f.text_field :rating %>
+  </p>
+  <p>
+    <%= f.submit "Update" %>
+  </p>
+<% end %>
+
+<%= link_to 'Show', @bear_shout %> |
+<%= link_to 'Back', bear_shouts_path %>

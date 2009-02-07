@@ -1,0 +1,26 @@
+<h1>Listing bear_shouts</h1>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Content</th>
+    <th>Date added</th>
+    <th>Rating</th>
+  </tr>
+
+<% for bear_shout in @bear_shouts %>
+  <tr>
+    <td><%=h bear_shout.name %></td>
+    <td><%=h bear_shout.content %></td>
+    <td><%=h bear_shout.date_added %></td>
+    <td><%=h bear_shout.rating %></td>
+    <td><%= link_to 'Show', bear_shout %></td>
+    <td><%= link_to 'Edit', edit_bear_shout_path(bear_shout) %></td>
+    <td><%= link_to 'Destroy', bear_shout, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New bear_shout', new_bear_shout_path %>

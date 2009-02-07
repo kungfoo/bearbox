@@ -1,0 +1,23 @@
+<p>
+  <b>Name:</b>
+  <%=h @bear_shout.name %>
+</p>
+
+<p>
+  <b>Content:</b>
+  <%=h @bear_shout.content %>
+</p>
+
+<p>
+  <b>Date added:</b>
+  <%=h @bear_shout.date_added %>
+</p>
+
+<p>
+  <b>Rating:</b>
+  <%=h @bear_shout.rating %>
+</p>
+
+
+<%= link_to 'Edit', edit_bear_shout_path(@bear_shout) %> |
+<%= link_to 'Back', bear_shouts_path %>
