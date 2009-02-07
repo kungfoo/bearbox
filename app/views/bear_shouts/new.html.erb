@@ -1,4 +1,4 @@
-<h1>New bear_shout</h1>
+<h1>Shout at the bear!!</h1>
 
 <% form_for(@bear_shout) do |f| %>
   <%= f.error_messages %>
@@ -12,12 +12,7 @@
     <%= f.text_area :content %>
   </p>
   <p>
-    <%= f.label :date_added %><br />
-    <%= f.date_select :date_added %>
-  </p>
-  <p>
-    <%= f.label :rating %><br />
-    <%= f.text_field :rating %>
+    <%= recaptcha_tags %>
   </p>
   <p>
     <%= f.submit "Create" %>

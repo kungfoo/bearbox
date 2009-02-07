@@ -1,26 +1,29 @@
-<h1>Listing bear_shouts</h1>
+<h1>What others have shouted at the bear for:</h1>
+<p style="color: green"><%= flash[:notice] %></p>
+<div id="bearbox-list">
+  <% for bear_shout in @bear_shouts %>
+    <div id="shout<%= bear_shout.id %>" class="bearshout">
+      <table id="calendar_<%= bear_shout.id %>">
 
-<table>
-  <tr>
-    <th>Name</th>
-    <th>Content</th>
-    <th>Date added</th>
-    <th>Rating</th>
-  </tr>
+        <tr>
+          <td>
+            <p class="month"><%= Date::ABBR_MONTHNAMES[bear_shout.date_added.month] %></p>
+            <p class="day"><%= bear_shout.date_added.mday %></p>
+          </td>
+          <td>
+            <p class="name">
+             <%= bear_shout.name %>
+            </p>
+          </td>
+        </tr>
 
-<% for bear_shout in @bear_shouts %>
-  <tr>
-    <td><%=h bear_shout.name %></td>
-    <td><%=h bear_shout.content %></td>
-    <td><%=h bear_shout.date_added %></td>
-    <td><%=h bear_shout.rating %></td>
-    <td><%= link_to 'Show', bear_shout %></td>
-    <td><%= link_to 'Edit', edit_bear_shout_path(bear_shout) %></td>
-    <td><%= link_to 'Destroy', bear_shout, :confirm => 'Are you sure?', :method => :delete %></td>
-  </tr>
-<% end %>
-</table>
-
-<br />
-
-<%= link_to 'New bear_shout', new_bear_shout_path %>
+      </table>
+      <p class="content">
+        <%= h bear_shout.content %>
+      </p>
+    </div>
+  <% end %>
+  <p>
+    <%= link_to 'New bear_shout', new_bear_shout_path %>
+  </p>
+</div>

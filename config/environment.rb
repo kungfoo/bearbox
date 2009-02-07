@@ -72,4 +72,10 @@ Rails::Initializer.run do |config|
   # Activate observers that should always be running
   # Please note that observers generated using script/generate observer need to have an _observer suffix
   # config.active_record.observers = :cacher, :garbage_collector, :forum_observer
+
+
+ENV['RECAPTCHA_PUBLIC_KEY'] = '6LfXBQUAAAAAAPSxv2zVMtIoK7rsxKkYY9rEmxsD'
+ENV['RECAPTCHA_PRIVATE_KEY'] = '6LfXBQUAAAAAAJS4qWgHzmF_AOlLZf4H2wn3ODqa '
+
+
 end

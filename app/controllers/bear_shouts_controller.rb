@@ -2,7 +2,7 @@ class BearShoutsController < ApplicationController
   # GET /bear_shouts
   # GET /bear_shouts.xml
   def index
-    @bear_shouts = BearShout.find(:all)
+    @bear_shouts = BearShout.find(:all, :order => "date_added DESC")
 
     respond_to do |format|
       format.html # index.html.erb
@@ -41,11 +41,13 @@ class BearShoutsController < ApplicationController
   # POST /bear_shouts.xml
   def create
     @bear_shout = BearShout.new(params[:bear_shout])
+    @bear_shout.date_added = DateTime.now()
+    @bear_shout.rating = 0
 
     respond_to do |format|
-      if @bear_shout.save
-        flash[:notice] = 'BearShout was successfully created.'
-        format.html { redirect_to(@bear_shout) }
+      if verify_recaptcha(@bear_shout) && @bear_shout.save!
+        flash[:notice] = 'Your bearshout was successfully created.'
+        format.html { redirect_to(:action => :index) }
         format.xml  { render :xml => @bear_shout, :status => :created, :location => @bear_shout }
       else
         format.html { render :action => "new" }
