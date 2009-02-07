@@ -33,9 +33,9 @@ div.calendar{
 }
 
 div.month{
-    width: 80px;
+    width: 60px;
     margin:0;
-    top: 3px;
+    top: 2px;
 
     text-align: center;
     position: relative;
@@ -45,11 +45,11 @@ div.month{
 }
 
 div.day{
-    width:80px;
+    width:60px;
     margin: 0;
     text-align: center;
     position: relative;
-    top: 22px;
+    top: 15px;
     
   
     font-style: normal;
