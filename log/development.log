@@ -6147,3 +6147,24 @@ Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 18:47:13) [GE
 Rendering template within layouts/bear_shouts
 Rendering bear_shouts/index
 Completed in 25ms (View: 14, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 20:15:28) [GET]
+  [4;36;1mBearShout Load (2.7ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added ASC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 31ms (View: 17, DB: 3) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 20:15:30) [GET]
+  [4;35;1mBearShout Load (2.3ms)[0m   [0mSELECT * FROM "bear_shouts" ORDER BY date_added ASC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 24ms (View: 14, DB: 2) | 200 OK [http://localhost/bear_shouts]
+
+
+Processing BearShoutsController#index (for 127.0.0.1 at 2009-02-07 20:15:53) [GET]
+  [4;36;1mBearShout Load (4.5ms)[0m   [0;1mSELECT * FROM "bear_shouts" ORDER BY date_added ASC[0m
+Rendering template within layouts/bear_shouts
+Rendering bear_shouts/index
+Completed in 40ms (View: 20, DB: 4) | 200 OK [http://localhost/bear_shouts]

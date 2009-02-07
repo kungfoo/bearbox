@@ -64,7 +64,7 @@ p.quote{
     padding-top: 5px;
     padding-left: 120px;
     width: 300px;
-    font-family: "Palatino, serif", "Bookman, serif", "Times, serif";
+    font-family: "Georgia";
     font-size: 14pt;
     text-align: justify;
     line-height: 18pt;
@@ -77,11 +77,11 @@ span.quote{
 }
 
 p.name{
-    font-family: "Palatino, serif", "Bookman, serif", "Times, serif";
+    font-family: "Georgia";
     width: 420px;
     text-align: right;
     font-size: 10pt;
-    margin-top: -20px;
+    margin-top: -15px;
 }
 
 p#new-link{
