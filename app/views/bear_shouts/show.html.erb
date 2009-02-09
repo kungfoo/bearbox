@@ -1,23 +1,11 @@
-<p>
-  <b>Name:</b>
-  <%=h @bear_shout.name %>
-</p>
+<%= link_to image_tag("typo.png", :class => "typo"), :action => :index  %>
 
-<p>
-  <b>Content:</b>
-  <%=h @bear_shout.content %>
-</p>
+<p style="color: green"><%= flash[:notice] %></p>
+ <p id="new-link">
+   <%= link_to image_tag("add.png"), new_bear_shout_path%><%= link_to 'New bear_shout', new_bear_shout_path %>
+  </p>
+<div id="bearbox-list">
+  <%= render (:partial => 'bear_shout', :item => @bear_shout) %>
+</div>
 
-<p>
-  <b>Date added:</b>
-  <%=h @bear_shout.date_added %>
-</p>
-
-<p>
-  <b>Rating:</b>
-  <%=h @bear_shout.rating %>
-</p>
-
-
-<%= link_to 'Edit', edit_bear_shout_path(@bear_shout) %> |
-<%= link_to 'Back', bear_shouts_path %>
+<div id="bracket">&nbsp;</div>

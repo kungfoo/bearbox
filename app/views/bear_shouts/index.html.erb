@@ -5,20 +5,7 @@
    <%= link_to image_tag("add.png"), new_bear_shout_path%><%= link_to 'New bear_shout', new_bear_shout_path %>
   </p>
 <div id="bearbox-list">
-  <% for bear_shout in @bear_shouts %>
-    <div id="shout<%= bear_shout.id %>" class="bearshout">
-      <div class="calendar">
-        <div class="month"><%= Date::ABBR_MONTHNAMES[bear_shout.date_added.month] %></div>
-        <div class="day"><%= bear_shout.date_added.mday %></div>
-      </div>
-      <p class="quote">
-        <span class="quote">&quot;</span><%= h bear_shout.content %><span class="quote">&quot;</span>
-      </p>
-      <p class="name">
-        by <%= h bear_shout.name %>
-      </p>
-    </div>
-  <% end %>
+  <%= render (:partial => 'bear_shout', :collection => @bear_shouts) %>
 </div>
 
 <%= will_paginate @bear_shouts %>

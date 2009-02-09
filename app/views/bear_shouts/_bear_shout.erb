@@ -1,0 +1,12 @@
+<div id="shout<%= bear_shout.id %>" class="bearshout">
+  <div class="calendar">
+    <div class="month"><%= Date::ABBR_MONTHNAMES[bear_shout.date_added.month] %></div>
+    <div class="day"><%= bear_shout.date_added.mday %></div>
+  </div>
+  <p class="quote">
+    <span class="quote">&quot;</span><%= h bear_shout.content %><span class="quote">&quot;</span>
+  </p>
+  <p class="name">
+    by <%= h bear_shout.name %>
+  </p>
+</div>
