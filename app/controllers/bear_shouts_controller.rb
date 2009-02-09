@@ -2,8 +2,9 @@ class BearShoutsController < ApplicationController
   # GET /bear_shouts
   # GET /bear_shouts.xml
   def index
-    @bear_shouts = BearShout.find(:all, :order => "date_added DESC")
-
+    # @bear_shouts = BearShout.find(:all, :order => "created_at DESC")
+    @bear_shouts = BearShout.paginate(:page => params[:page], :order => 'created_at DESC', :per_page => 10)
+    
     respond_to do |format|
       format.html # index.html.erb
       format.xml  { render :xml => @bear_shouts }
