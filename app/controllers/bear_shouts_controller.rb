@@ -1,4 +1,7 @@
 class BearShoutsController < ApplicationController
+  
+  layout "bear_shouts", :except => [:rss]
+  
   # GET /bear_shouts
   # GET /bear_shouts.xml
   def index
@@ -7,9 +10,16 @@ class BearShoutsController < ApplicationController
     
     respond_to do |format|
       format.html # index.html.erb
+      format.rss { render :layout => false }
       format.xml  { render :xml => @bear_shouts }
     end
   end
+  
+  # GET /bear_shouts/rss
+   # GET /bear_shouts/rss.xml
+   def rss
+     @bear_shouts = BearShout.find(:all, :limit => 10, :order => 'created_at DESC')
+   end
 
   # GET /bear_shouts/1
   # GET /bear_shouts/1.xml

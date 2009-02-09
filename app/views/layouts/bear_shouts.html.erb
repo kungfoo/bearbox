@@ -7,6 +7,7 @@
   <title>&gt;&gt;BEARBOX&lt;&lt; <%= controller.action_name %></title>
   <%= stylesheet_link_tag 'scaffold' %>
   <%= stylesheet_link_tag 'bearbox' %>
+  <%= auto_discovery_link_tag(:rss, :controller => 'bear_shouts', :action => 'index', :format => 'rss') %>
 </head>
 <body>
 <div id="bearbox-top"/>
