@@ -7,12 +7,14 @@ xml.rss(:version=>"2.0"){
     xml.language('en-us')
     for shout in @bear_shouts
       xml.item do
-        xml.title("#{shout.name} said:")
-        xml.description(shout.content)
+        text = "#{shout.name} said: #{shout.content}"
+        xml.title(text)
+        xml.description(text)
         xml.author(shout.name)
         xml.pubDate(shout.created_at.strftime("%a, %d %b %Y %H:%M:%S %z"))
-        xml.link("http://bearbox.mollusca.ch/bear_shouts/show/#{shout.id}")
-        xml.guid("http://bearbox.mollusca.ch/bear_shouts/show/#{shout.id}")
+        url = "http://bearbox.mollusca.ch/bear_shouts/show/#{shout.id}"
+        xml.link(url)
+        xml.guid(url)
       end
     end
   }

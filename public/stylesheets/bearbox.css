@@ -45,11 +45,11 @@ div.month{
 }
 
 div.day{
-    width:60px;
+    width:61px;
     margin: 0;
     text-align: center;
     position: relative;
-    top: 15px;
+    top: 10px;
     
   
     font-style: normal;
